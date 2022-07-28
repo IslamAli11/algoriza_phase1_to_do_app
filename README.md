@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# vedeo
+# video
 
 https://user-images.githubusercontent.com/84982341/181478448-efaea737-3441-4a91-a751-d1d89333027e.mp4
 
